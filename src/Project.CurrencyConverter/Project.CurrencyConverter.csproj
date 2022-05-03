@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="Graph\" />
+    <None Remove="Contracts\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Folder Include="Graph\" />
+    <Folder Include="Contracts\" />
   </ItemGroup>
 </Project>
