@@ -9,25 +9,25 @@ src/.vscode/
 src/.code/
 src/.rider/
 #----
-src/CurrencyConverter/.vs/
-src/CurrencyConverter/.vscode/
-src/CurrencyConverter/.code/
-src/CurrencyConverter/.rider/
+src/Project.CurrencyConverter/.vs/
+src/Project.CurrencyConverter/.vscode/
+src/Project.CurrencyConverter/.code/
+src/Project.CurrencyConverter/.rider/
 #----
-src/CurrencyConverter/[Dd]ebug/
-src/CurrencyConverter/[Dd]ebugPublic/
-src/CurrencyConverter/[Rr]elease/
-src/CurrencyConverter/[Rr]eleases/
-src/CurrencyConverter/x64/
-src/CurrencyConverter/x86/
-src/CurrencyConverter/[Ww][Ii][Nn]32/
-src/CurrencyConverter/[Aa][Rr][Mm]/
-src/CurrencyConverter/[Aa][Rr][Mm]64/
-src/CurrencyConverter/bld/
-src/CurrencyConverter/[Bb]in/
-src/CurrencyConverter/[Oo]bj/
-src/CurrencyConverter/[Ll]og/
-src/CurrencyConverter/[Ll]ogs/
+src/Project.CurrencyConverter/[Dd]ebug/
+src/Project.CurrencyConverter/[Dd]ebugPublic/
+src/Project.CurrencyConverter/[Rr]elease/
+src/Project.CurrencyConverter/[Rr]eleases/
+src/Project.CurrencyConverter/x64/
+src/Project.CurrencyConverter/x86/
+src/Project.CurrencyConverter/[Ww][Ii][Nn]32/
+src/Project.CurrencyConverter/[Aa][Rr][Mm]/
+src/Project.CurrencyConverter/[Aa][Rr][Mm]64/
+src/Project.CurrencyConverter/bld/
+src/Project.CurrencyConverter/[Bb]in/
+src/Project.CurrencyConverter/[Oo]bj/
+src/Project.CurrencyConverter/[Ll]og/
+src/Project.CurrencyConverter/[Ll]ogs/
 
 
 
