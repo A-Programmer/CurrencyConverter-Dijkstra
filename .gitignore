@@ -3,6 +3,7 @@
 .vscode/
 .code/
 .rider/
+.docs/
 #----
 src/.vs/
 src/.vscode/
